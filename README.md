@@ -1,5 +1,5 @@
 # Snippets
-##Trocitos de código en VBA
+Trocitos de código en VBA
 
 En este repositorio iremos encontrarás Snippets de código en VBA para que puedas utilizarlo en tus aplicaciones.
 
