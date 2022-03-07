@@ -9,9 +9,9 @@ assignees: ''
 
 **Autor:** 
 
-**Proposito:** 
+**Propósito:** 
 
 **Código:**
-...
+```
 Escribe aquí tu código
-...
+```
