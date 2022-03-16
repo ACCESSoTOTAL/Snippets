@@ -8,10 +8,13 @@ assignees: ''
 ---
 
 **Autor:** 
+> Nombre
 
 **Ruta o fuente original:**
+> fuente
 
 **Propósito:** 
+> proposito
 
 **Código:**
 ```
